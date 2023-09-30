@@ -1,4 +1,3 @@
-![MasterHead](https://www.bolton.ac.uk/assets/Uploads/Why-you-dont-have-to-be-a-genius-to-do-computer-science-University-of-Bolton.jpg)
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A relentless passion for crafting innovative digital solution to bridge the gap between ideas and reality.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AamQYut0WlQAAAAC/rick-and-morty-adult-swim.gif">
